@@ -1,0 +1,12 @@
+body{
+    background-color: silver;
+}
+
+.container{
+    background-color: white;
+    padding: 10px;
+}
+
+.navbar{
+    float: right;
+}
